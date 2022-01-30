@@ -1,0 +1,16 @@
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp1.CarStore\bin\Debug\net5.0\ConsoleApp1.CarStore.exe
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp1.CarStore\bin\Debug\net5.0\ConsoleApp1.CarStore.deps.json
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp1.CarStore\bin\Debug\net5.0\ConsoleApp1.CarStore.runtimeconfig.json
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp1.CarStore\bin\Debug\net5.0\ConsoleApp1.CarStore.runtimeconfig.dev.json
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp1.CarStore\bin\Debug\net5.0\ConsoleApp1.CarStore.dll
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp1.CarStore\bin\Debug\net5.0\ref\ConsoleApp1.CarStore.dll
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp1.CarStore\bin\Debug\net5.0\ConsoleApp1.CarStore.pdb
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp1.CarStore\obj\Debug\net5.0\ConsoleApp1.CarStore.csproj.AssemblyReference.cache
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp1.CarStore\obj\Debug\net5.0\ConsoleApp1.CarStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp1.CarStore\obj\Debug\net5.0\ConsoleApp1.CarStore.AssemblyInfoInputs.cache
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp1.CarStore\obj\Debug\net5.0\ConsoleApp1.CarStore.AssemblyInfo.cs
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp1.CarStore\obj\Debug\net5.0\ConsoleApp1.CarStore.csproj.CoreCompileInputs.cache
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp1.CarStore\obj\Debug\net5.0\ConsoleApp1.CarStore.dll
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp1.CarStore\obj\Debug\net5.0\ref\ConsoleApp1.CarStore.dll
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp1.CarStore\obj\Debug\net5.0\ConsoleApp1.CarStore.pdb
+C:\Users\samidms\Desktop\mmm\basic solution\ConsoleApp1.CarStore\obj\Debug\net5.0\ConsoleApp1.CarStore.genruntimeconfig.cache
